@@ -35,6 +35,81 @@
     },
     {
       "path": "tools/importer/mappings/wotc.json"
+    },
+    {
+      "path": "tools/importer/mappings/xchange.json"
+    },
+    {
+      "path": "tools/importer/mappings/resources.json"
+    },
+    {
+      "path": "tools/importer/mappings/why-tcc.json"
+    },
+    {
+      "path": "tools/importer/mappings/about-us.json"
+    },
+    {
+      "path": "tools/importer/mappings/careers.json"
+    },
+    {
+      "path": "tools/importer/mappings/contact-us.json"
+    },
+    {
+      "path": "tools/importer/mappings/the-channel-company-video-solutions.json"
+    },
+    {
+      "path": "tools/importer/mappings/why-are-80-of-channel-partners-underperforming.json"
+    },
+    {
+      "path": "tools/importer/mappings/8-ways-to-gain-it-leader-interest-and-sustain-their-confidence.json"
+    },
+    {
+      "path": "tools/importer/mappings/make-it-reign.json"
+    },
+    {
+      "path": "tools/importer/mappings/the-top-9-metrics-that-matter-most-for-channel-partner-marketing-success.json"
+    },
+    {
+      "path": "tools/importer/mappings/the-case-for-video-in-mdf-lead-gen-campaigns.json"
+    },
+    {
+      "path": "tools/importer/mappings/what-genai-momentum-means-for-the-it-channel.json"
+    },
+    {
+      "path": "tools/importer/mappings/5-ways-to-become-a-trusted-cyber-security-thought-leader.json"
+    },
+    {
+      "path": "tools/importer/mappings/people-first-language-motivational-minutes.json"
+    },
+    {
+      "path": "tools/importer/mappings/dr-ashley-goodwin-ingram-micro-woman-of-the-week-wow.json"
+    },
+    {
+      "path": "tools/importer/mappings/benefits-of-a-diverse-workplace-motivational-minutes.json"
+    },
+    {
+      "path": "tools/importer/mappings/mes-empowering-and-connecting-senior-midmarket-it-leaders.json"
+    },
+    {
+      "path": "tools/importer/mappings/ai-fluent-part-1.json"
+    },
+    {
+      "path": "tools/importer/mappings/ai-fluent-part-2.json"
+    },
+    {
+      "path": "tools/importer/mappings/communities.json"
+    },
+    {
+      "path": "tools/importer/mappings/channelytics.json"
+    },
+    {
+      "path": "tools/importer/mappings/channel-leadership-forum.json"
+    },
+    {
+      "path": "tools/importer/mappings/partners.json"
+    },
+    {
+      "path": "tools/importer/mappings/channel-masters.json"
     }
   ]
 }

@@ -1,0 +1,94 @@
+{
+  "url": "https://www.thechannelco.com/why-are-80-of-channel-partners-underperforming/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/header[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/header[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]\n  /html[1]/body[1]/div[1]/main[1]/div[1]\n  /html[1]/body[1]/div[1]/footer[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+    "hash": -1876625742
+  },
+  "pageHeight": 4001,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/why-are-80-of-channel-partners-underperforming/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-966562858",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 876,
+              "height": 148,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/header[1]/div[1]/h1[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 202,
+              "y": 132,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-ct92jb-box-id-966562858"
+            },
+            {
+              "id": "box-id--163278454",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 876,
+              "height": 95,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/header[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 202,
+              "y": 320,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-ct92jb-163278454"
+            },
+            {
+              "id": "box-id-974754630",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 2890,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 446,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-ct92jb-box-id-974754630"
+            },
+            {
+              "id": "box-id--2114861052",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 900,
+              "height": 48,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 190,
+              "y": 3356,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-ct92jb-2114861052"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "url": "https://www.thechannelco.com/channelytics/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/header[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[3]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[4]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[5]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[6]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[7]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/h3[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/p[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/footer[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+    "hash": 1580659222
+  },
+  "pageHeight": 4194,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/channelytics/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-950914379",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 500,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 0,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-950914379"
+            },
+            {
+              "id": "box-id-50689183",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 40,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 500,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689183"
+            },
+            {
+              "id": "box-id-50689214",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 24,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 540,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689214"
+            },
+            {
+              "id": "box-id-50689245",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 572,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689245"
+            },
+            {
+              "id": "box-id-50689276",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 648,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689276"
+            },
+            {
+              "id": "box-id-50689307",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 724,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689307"
+            },
+            {
+              "id": "box-id-50689338",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 30,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 800,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689338"
+            },
+            {
+              "id": "box-id-50689369",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 40,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[7]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 846,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-50689369"
+            },
+            {
+              "id": "box-id--1242253238",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 48,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 946,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-1242253238"
+            },
+            {
+              "id": "box-id--1242253207",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 808,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"values_block_ffa97e41518f2c8e472285fc159995be\")/div[@class=\"container\"]/div[@class=\"row values justify-content-center\"]/div[@class=\"col-lg-6 col-xl-4 value mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"values_block_ffa97e41518f2c8e472285fc159995be\")/div[@class=\"container\"]/div[@class=\"row values justify-content-center\"]/div[@class=\"col-lg-6 col-xl-4 value mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[3]",
+                  "xpathWithDetails": "id(\"values_block_ffa97e41518f2c8e472285fc159995be\")/div[@class=\"container\"]/div[@class=\"row values justify-content-center\"]/div[@class=\"col-lg-6 col-xl-4 value mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[4]",
+                  "xpathWithDetails": "id(\"values_block_ffa97e41518f2c8e472285fc159995be\")/div[@class=\"container\"]/div[@class=\"row values justify-content-center\"]/div[@class=\"col-lg-6 col-xl-4 value mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[5]",
+                  "xpathWithDetails": "id(\"values_block_ffa97e41518f2c8e472285fc159995be\")/div[@class=\"container\"]/div[@class=\"row values justify-content-center\"]/div[@class=\"col-lg-6 col-xl-4 value mb-4\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 2
+              },
+              "x": 0,
+              "y": 994,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-vvdw78-1242253207"
+            },
+            {
+              "id": "box-id--1752787415",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 100,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 1922,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-1752787415"
+            },
+            {
+              "id": "box-id--1752787384",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 334,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"iconcolumns_block_0e4f59bb674e25c08306883ff02f0d5c\")/div[@class=\"container\"]/div[@class=\"row icon-columns\"]/div[@class=\"col-lg-3 icon-column mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"iconcolumns_block_0e4f59bb674e25c08306883ff02f0d5c\")/div[@class=\"container\"]/div[@class=\"row icon-columns\"]/div[@class=\"col-lg-3 icon-column mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[3]",
+                  "xpathWithDetails": "id(\"iconcolumns_block_0e4f59bb674e25c08306883ff02f0d5c\")/div[@class=\"container\"]/div[@class=\"row icon-columns\"]/div[@class=\"col-lg-3 icon-column mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[4]",
+                  "xpathWithDetails": "id(\"iconcolumns_block_0e4f59bb674e25c08306883ff02f0d5c\")/div[@class=\"container\"]/div[@class=\"row icon-columns\"]/div[@class=\"col-lg-3 icon-column mb-4\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 2022,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-vvdw78-1752787384"
+            },
+            {
+              "id": "box-id-1730207957",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1256,
+              "height": 24,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 12,
+              "y": 2476,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-1730207957"
+            },
+            {
+              "id": "box-id--913742658",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1256,
+              "height": 30,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/p[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 12,
+              "y": 2508,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-913742658"
+            },
+            {
+              "id": "box-id-2033036093",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 952,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 2554,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vvdw78-box-id-2033036093"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

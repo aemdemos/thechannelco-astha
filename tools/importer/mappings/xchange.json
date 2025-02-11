@@ -1,0 +1,564 @@
+{
+  "url": "https://www.thechannelco.com/xchange/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/header[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[3]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[4]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[5]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[6]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[8]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/h3[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/p[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/footer[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+    "hash": -739712585
+  },
+  "pageHeight": 6796,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/xchange/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-950914379",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 500,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 0,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-950914379"
+            },
+            {
+              "id": "box-id-50689183",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 40,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 500,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689183"
+            },
+            {
+              "id": "box-id-50689214",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 44,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 540,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689214"
+            },
+            {
+              "id": "box-id-50689245",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 592,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689245"
+            },
+            {
+              "id": "box-id-50689276",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 30,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 668,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689276"
+            },
+            {
+              "id": "box-id-50689307",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 30,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 714,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689307"
+            },
+            {
+              "id": "box-id-50689338",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 20,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 760,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689338"
+            },
+            {
+              "id": "box-id--1242253238",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 8,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 843,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1242253238"
+            },
+            {
+              "id": "box-id--1242253207",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 3192,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[3]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[4]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[5]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[6]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[7]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[8]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[9]",
+                  "xpathWithDetails": "id(\"eventtypes_block_272eb0ef1a3ff1cac78f5b01be84d249\")/div[@class=\"container\"]/div[@class=\"row event_types justify-content-center\"]/div[@class=\"col-md-6 event-type mb-4\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 5
+              },
+              "x": 0,
+              "y": 851,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-5bjwdd-1242253207"
+            },
+            {
+              "id": "box-id-50689400",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 40,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/div[8]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 4063,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-50689400"
+            },
+            {
+              "id": "box-id--1752787415",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 114,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 4163,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1752787415"
+            },
+            {
+              "id": "box-id--1752787384",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 477,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"image_columns_block_114cfdbbbdf2358535722f1422964dca\")/div[@class=\"container\"]/div[@class=\"row image-rows\"]/div[@class=\"col-md-4 image-col mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"image_columns_block_114cfdbbbdf2358535722f1422964dca\")/div[@class=\"container\"]/div[@class=\"row image-rows\"]/div[@class=\"col-md-4 image-col mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[3]",
+                  "xpathWithDetails": "id(\"image_columns_block_114cfdbbbdf2358535722f1422964dca\")/div[@class=\"container\"]/div[@class=\"row image-rows\"]/div[@class=\"col-md-4 image-col mb-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]/div[1]/div[2]/div[4]",
+                  "xpathWithDetails": "id(\"image_columns_block_114cfdbbbdf2358535722f1422964dca\")/div[@class=\"container\"]/div[@class=\"row image-rows\"]/div[@class=\"col-md-4 image-col mb-4\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 2
+              },
+              "x": 0,
+              "y": 4277,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-5bjwdd-1752787384"
+            },
+            {
+              "id": "box-id-1730207957",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1256,
+              "height": 24,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 12,
+              "y": 4874,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-1730207957"
+            },
+            {
+              "id": "box-id--913742658",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1256,
+              "height": 30,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/p[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 12,
+              "y": 4906,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-913742658"
+            },
+            {
+              "id": "box-id--1408949836",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 4952,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949836"
+            },
+            {
+              "id": "box-id--1408949805",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5039,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949805"
+            },
+            {
+              "id": "box-id--1408949774",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5125,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949774"
+            },
+            {
+              "id": "box-id--1408949743",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5212,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949743"
+            },
+            {
+              "id": "box-id--1408949712",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5298,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949712"
+            },
+            {
+              "id": "box-id--1408949681",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5385,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949681"
+            },
+            {
+              "id": "box-id--1408949650",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[7]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5472,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949650"
+            },
+            {
+              "id": "box-id--1408949588",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 86,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[9]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5558,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-1408949588"
+            },
+            {
+              "id": "box-id-939327373",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 350,
+              "height": 35,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[10]/div[1]/div[2]/label[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5660,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-939327373"
+            },
+            {
+              "id": "box-id--2054020719",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 88,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[10]/div[1]/div[2]/select[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5695,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-2054020719"
+            },
+            {
+              "id": "box-id-1327556816",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 788,
+              "height": 16,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[10]/div[1]/div[2]/select[1]/option[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 246,
+              "y": 5773,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-1327556816"
+            },
+            {
+              "id": "box-id-1327556847",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 788,
+              "height": 16,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[10]/div[1]/div[2]/select[1]/option[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 246,
+              "y": 5789,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-1327556847"
+            },
+            {
+              "id": "box-id-1327556878",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 788,
+              "height": 16,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[10]/div[1]/div[2]/select[1]/option[7]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 246,
+              "y": 5806,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-1327556878"
+            },
+            {
+              "id": "box-id-943711124",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 55,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[11]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5809,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-box-id-943711124"
+            },
+            {
+              "id": "box-id--727773196",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 94,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[12]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5875,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-727773196"
+            },
+            {
+              "id": "box-id--727773165",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 800,
+              "height": 91,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[13]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 240,
+              "y": 5970,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5bjwdd-727773165"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
