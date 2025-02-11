@@ -1,0 +1,168 @@
+{
+  "url": "https://www.thechannelco.com/contact-us/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/header[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[1]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]\n  /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/footer[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+    "hash": -269421791
+  },
+  "pageHeight": 3863,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/contact-us/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-950914379",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 500,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 0,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5b71sc-box-id-950914379"
+            },
+            {
+              "id": "box-id--1242253238",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 106,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 560,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5b71sc-1242253238"
+            },
+            {
+              "id": "box-id--1242253207",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 1507,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"contact-form\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"col-md-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[2]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"contact-form\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"col-md-6\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 666,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-5b71sc-1242253207"
+            },
+            {
+              "id": "box-id-950914441",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 310,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 2233,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5b71sc-box-id-950914441"
+            },
+            {
+              "id": "box-id-2031645704",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 100,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 2603,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-5b71sc-box-id-2031645704"
+            },
+            {
+              "id": "box-id-2031645735",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 472,
+              "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[3]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[4]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[5]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[6]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[7]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/section[4]/div[1]/div[2]/div[8]",
+                  "xpathWithDetails": "id(\"locations_block_57e9ad91dade19c69259597e7bddb832\")/div[@class=\"container\"]/div[@class=\"row locations\"]/div[@class=\"col-sm-6 col-md-3 location mb-5\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 2
+              },
+              "x": 0,
+              "y": 2703,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-5b71sc-box-id-2031645735"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

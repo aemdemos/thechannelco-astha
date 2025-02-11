@@ -35,6 +35,36 @@
     },
     {
       "path": "tools/importer/mappings/wotc.json"
+    },
+    {
+      "path": "tools/importer/mappings/xchange.json"
+    },
+    {
+      "path": "tools/importer/mappings/resources.json"
+    },
+    {
+      "path": "tools/importer/mappings/why-tcc.json"
+    },
+    {
+      "path": "tools/importer/mappings/about-us.json"
+    },
+    {
+      "path": "tools/importer/mappings/careers.json"
+    },
+    {
+      "path": "tools/importer/mappings/contact-us.json"
+    },
+    {
+      "path": "tools/importer/mappings/the-channel-company-video-solutions.json"
+    },
+    {
+      "path": "tools/importer/mappings/why-are-80-of-channel-partners-underperforming.json"
+    },
+    {
+      "path": "tools/importer/mappings/8-ways-to-gain-it-leader-interest-and-sustain-their-confidence.json"
+    },
+    {
+      "path": "tools/importer/mappings/make-it-reign.json"
     }
   ]
 }
