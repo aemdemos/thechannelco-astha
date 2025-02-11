@@ -95,6 +95,21 @@
     },
     {
       "path": "tools/importer/mappings/ai-fluent-part-2.json"
+    },
+    {
+      "path": "tools/importer/mappings/communities.json"
+    },
+    {
+      "path": "tools/importer/mappings/channelytics.json"
+    },
+    {
+      "path": "tools/importer/mappings/channel-leadership-forum.json"
+    },
+    {
+      "path": "tools/importer/mappings/partners.json"
+    },
+    {
+      "path": "tools/importer/mappings/channel-masters.json"
     }
   ]
 }
