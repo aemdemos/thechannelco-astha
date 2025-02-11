@@ -65,6 +65,36 @@
     },
     {
       "path": "tools/importer/mappings/make-it-reign.json"
+    },
+    {
+      "path": "tools/importer/mappings/the-top-9-metrics-that-matter-most-for-channel-partner-marketing-success.json"
+    },
+    {
+      "path": "tools/importer/mappings/the-case-for-video-in-mdf-lead-gen-campaigns.json"
+    },
+    {
+      "path": "tools/importer/mappings/what-genai-momentum-means-for-the-it-channel.json"
+    },
+    {
+      "path": "tools/importer/mappings/5-ways-to-become-a-trusted-cyber-security-thought-leader.json"
+    },
+    {
+      "path": "tools/importer/mappings/people-first-language-motivational-minutes.json"
+    },
+    {
+      "path": "tools/importer/mappings/dr-ashley-goodwin-ingram-micro-woman-of-the-week-wow.json"
+    },
+    {
+      "path": "tools/importer/mappings/benefits-of-a-diverse-workplace-motivational-minutes.json"
+    },
+    {
+      "path": "tools/importer/mappings/mes-empowering-and-connecting-senior-midmarket-it-leaders.json"
+    },
+    {
+      "path": "tools/importer/mappings/ai-fluent-part-1.json"
+    },
+    {
+      "path": "tools/importer/mappings/ai-fluent-part-2.json"
     }
   ]
 }
